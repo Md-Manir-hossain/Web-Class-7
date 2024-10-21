@@ -1,0 +1,39 @@
+
+==============CSS===============
+
+CSS = Casecading Style Sheet.
+
+There are 3 kinds of CSS. Here there is.......
+
+1. Inline CSS.
+2. Internal CSS.
+3. External CSS.
+
+===========Some Special Tags===========
+
+<section> </section>
+<div> </div>
+<Style> </style>
+<script> </script>
+
+================Inline CSS System==================
+
+<h1 style="color: blue; background-color: yellow;"> This is our first class on CSS. </h1>
+
+===============Outline CSS System==================
+
+Outline CSS- এ লিখার জন্য আমাদের <head> </head> Tag - এর ভেতর সব কিছু লিখতে হবে।
+তবে হেড ট্যাগের যে কোনো জায়গা থেকেই CSS Style- এ লিখা যায়। তবে 
+<title> </title> Tag- এর পরে লিখলেই বেশি সুন্দর হয়। 
+
+CSS এ লিখা ডিজাইন করার জন্য অবশ্যই- <title> </title> Tag- এর পরে আরেকটি ট্যাগ ব্যবহার করতে হয়।
+সেটি হলো- <style> </style> Tag.............
+
+Outline CSS- ব্যবহার করতে হলে অবশ্যই তাকে কোন ট্যাগে ব্যবহার করতে হবে সেটা উল্লেখ বা Mention
+করে দিতে হবে। আর এই জন্যই তার জন্য দরকার---- Identifier------
+
+=================Identifier=============
+There are many kinds of Identifier. Here there is-
+1. Tag.
+2. Class.
+3. ID.
